@@ -1,0 +1,1 @@
+dev-libs/libratbag PYTHON_SINGLE_TARGET: python3_14 -python3_13

@@ -1,0 +1,42 @@
+# required by media-fonts/kochi-substitute (argument)                                                                                                                                                         
+>=media-fonts/kochi-substitute-20030809-r3 free-noncomm                                                                                                                                                       
+# required by chromium (argument)                                                                                                                                                                             
+>=www-client/chromium-139.0.7258.5 unRAR                                                                                                                                                                      
+# required by app-editors/vscode (argument)                                                                                                                                                                   
+>=app-editors/vscode-1.102.1 Microsoft-vscode                                                                                                                                                                 
+# required by chromium (argument)                                                                                                                                                                             
+=www-client/chromium-138.0.7204.157 unRAR
+# required by discord (argument)
+>=net-im/discord-0.0.102 all-rights-reserved
+# required by nvidia-cuda-toolkit (argument)
+>=dev-util/nvidia-cuda-toolkit-12.9.1 NVIDIA-CUDA
+# required by games-arcade/osu-lazer (argument)
+>=games-arcade/osu-lazer-2025.710.0 all-rights-reserved
+# required by media-libs/libquicktime-1.2.4-r7::gentoo[encode,aac]
+# required by libquicktime (argument)
+=media-libs/faac-1.30 MPEG-4
+# required by games-engines/gamemaker-beta (argument)
+>=games-engines/gamemaker-beta-2024.1400.0.865 all-rights-reserved
+# required by media-sound/cider (argument)
+>=media-sound/cider-3.1.2 all-rights-reserved
+# required by dev-php/justinrainbow-json-schema-6.4.1::php-overlay
+# required by dev-php/composer-2.8.8::php-overlay
+# required by app-portage/composer-ebuild-0.1.4::php-overlay
+# required by composer-ebuild (argument)
+>=dev-php/marc-mabe-php-enum-4.7.1 BSD-3-Clause
+# required by rar (argument)
+>=app-arch/rar-7.12 RAR
+# required by media-fonts/corefonts (argument)
+>=media-fonts/corefonts-1-r7 MSttfEULA
+# required by spotify (argument)
+>=media-sound/spotify-1.2.74-r1 Spotify
+# required by www-client/google-chrome (argument)
+>=www-client/google-chrome-142.0.7444.175 google-chrome
+# required by vivaldi (argument)
+>=www-client/vivaldi-7.7.3851.67 Vivaldi
+# required by www-client/vivaldi-7.7.3851.67::gentoo[widevine]
+# required by @selected
+# required by @world (argument)
+>=www-plugins/chrome-binary-plugins-144.0.7559.109:stable google-chrome
+# required by teamspeak-client (argument)
+=media-sound/teamspeak-client-6.0.0_beta2-r1 teamspeak5

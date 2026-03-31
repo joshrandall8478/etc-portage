@@ -1,5 +1,2 @@
-binrepos.conf
 gnupg
-make.profile
 postsync.d
-profile

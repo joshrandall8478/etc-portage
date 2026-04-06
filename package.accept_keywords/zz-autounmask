@@ -222,3 +222,26 @@
 =dev-libs/cudnn-9.17.0.29 ~amd64
 # required by dev-java/openwebstart-bin (argument)
 =dev-java/openwebstart-bin-1.13.0 ~amd64
+# required by dev-games/godot (argument)
+=dev-games/godot-4.6.1 ~amd64
+# required by dev-games/godot-4.6.1::gentoo
+# required by dev-games/godot (argument)
+=net-libs/wslay-1.1.1_p20210115 ~amd64
+# required by dev-games/godot-4.6.1::gentoo
+# required by dev-games/godot (argument)
+=dev-games/recastnavigation-1.6.0-r1 ~amd64
+# required by cachyos-sources (argument)
+=sys-kernel/cachyos-sources-6.18.6 ~amd64
+# required by sys-boot/rpi-imager (argument)
+=sys-boot/rpi-imager-1.8.5-r1 ~amd64
+# required by www-client/firefox-140.9.0::gentoo[llvm_slot_21]
+# required by @selected
+# required by @world (argument)
+=dev-lang/rust-bin-1.94.0 ~amd64
+# required by media-libs/oidn-2.3.3-r1::gentoo[cuda]
+# required by media-gfx/blender-4.4.3::gentoo[oidn]
+# required by @selected
+# required by @world (argument)
+=dev-libs/cutlass-4.2.1 ~amd64
+# required by kde-misc/wallpaper-engine-kde-plugin (argument)
+=kde-misc/wallpaper-engine-kde-plugin-9999 ~amd64
